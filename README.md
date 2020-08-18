@@ -1,6 +1,2 @@
 ## Form Validation
-A simple form validation website.
-
-## Future to-do's
-- Add JavaScipt
-- Add css
+A simple form validation website made using html , css and vanilla js.
